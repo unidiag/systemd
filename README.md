@@ -36,4 +36,4 @@ err := svc.InstallAndStart()
 
 ## License
 MIT License
-Copyright (c) 2026 unidiag
+Copyright (c) 2026 unidiag# systemd
