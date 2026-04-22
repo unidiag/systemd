@@ -12,7 +12,7 @@ Simple helper for managing systemd services in Go.
 ## Installation
 
 ```bash
-go get github.com/yourname/systemd
+go get github.com/unidiag/systemd
 ```
 
 ## Usage
